@@ -2,7 +2,7 @@
 
 `Fix the cause, not the symptom.`
 
-I am a software engineer accompanied by an enthusiasm with the arts of web development with a particular passion for the frontend sphere.
+I am a software engineer accompanied by an enthusiasm for the arts of web development with a particular passion for the frontend sphere.
 
 ---
 
