@@ -1,8 +1,8 @@
 # 👻 Cheila Alves
 
-`Fix the cause, not the symptom.`
+`Committing to excellence, one line of code at a time.`
 
-I am a software engineer accompanied by an enthusiasm for the arts of web development with a particular passion for the frontend sphere.
+Caffeine-fueled coder on a mission. Crafting solutions, solving puzzles, and pushing tech boundaries. Continuous learner and innovation enthusiast.
 
 ---
 
